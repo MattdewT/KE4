@@ -1,0 +1,18 @@
+﻿LoadOptions_SearchPaths: C:\\Users\\hofmannt.tmb18\\Documents\\GitHub\\KE4\\CAD\\Modul_4_5\\ C:\\Users\\hofmannt.tmb18\\Documents\\GitHub\\KE4\\CAD\\ C:\\Users\\hofmannt.tmb18\\Documents\\GitHub\\KE4\\CAD\\Normteile\\ "C:\\Program Files\\Siemens\\NX 12.0\\UGII..." 
+LoadOptions_LoadComponents: load_all_components
+LoadOptions_PartLoadOption: partially_load
+LoadOptions_LoadWAVE: NO
+LoadOptions_LoadWAVEParents: NONE
+LoadOptions_LoadSubstitution: dont_allow_substitution
+LoadOptions_LoadLatest: NO
+LoadOptions_LoadOption: load_from_search_dirs
+LoadOptions_ManagedModeLoadOption: load_by_revision_rule
+LoadOptions_LoadFilters: load_no_components
+LoadOptions_LoadFailOption: dont_abort
+LoadOptions_ReferenceSets: "As Saved" "Use Model" "Entire Part" "Empty" 
+LoadOptions_ApplyAllLevels: NO
+LoadOptions_GenerateMissingPFM: YES
+LoadOptions_BookmarkRefSets: Import
+LoadOptions_BookmarkPartsLoad: Load_Visible
+LoadOptions_BookmarkRestoreFullyLoadedState: no
+LoadOptions_SubsetLoadBehavior: Do_Not_Update
