@@ -17,3 +17,4 @@ Backup of *.doc*
 
 # Visio autosave temporary files
 *.~vsd*
+CAD/load_options_local_matze.def
